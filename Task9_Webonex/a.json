@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Arpandeep kaur Saluja",
+        "email": "kaurarpandeep618@gmail.com",
+        "age": 19,
+        "address": "Indore, Madhya Pradesh",
+        "phoneNumber": "1464567890",
+        "gender": "Female",
+        "isMarried": false,
+        "salary": 600000
+    },
+    {
+        "name": "Sakshi Sharma",
+        "email": "sakshi@gmail.com",
+        "age": 40,
+        "address": "Indore, Madhya Pradesh",
+        "phoneNumber": "1234567890",
+        "gender": "Female",
+        "isMarried": true,
+        "salary": 420000
+    },
+    {
+        "name": "Manish Singh",
+        "email": "manish@gmail.com",
+        "age": 70,
+        "address": "Indore, Madhya Pradesh",
+        "phoneNumber": "1234567890",
+        "gender": "Male",
+        "isMarried": false,
+        "salary": 500000
+    },
+    {
+        "name": "Purvanam Singh",
+        "email": "purvanam@gmail.com",
+        "age": 65,
+        "address": "Indore, Madhya Pradesh",
+        "phoneNumber": "1234567890",
+        "gender": "Male",
+        "isMarried": true,
+        "salary": 530000
+    }
+]
